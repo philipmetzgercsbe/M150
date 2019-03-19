@@ -4,4 +4,4 @@ Django Webshop
 Simple E-Commerce App with Postgres and Oscar-Commerce
 # Contributors 
 Philip Metzger https://github.com/philipmetzgercsbe & https://github.com/philipmetzger
-Tarek Stauffer ttps://github.com/jorgejosestar
+Tarek Stauffer https://github.com/jorgejosestar
