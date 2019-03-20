@@ -99,7 +99,9 @@ USE_L10N = True
 
 USE_TZ = True
 
-
+STRIPE_SECRET_KEY = "sk_test_yYv48lpbtY8pe10OkNJYiYeL00pvB4Ree9"
+STRIPE_PUBLISHABLE_KEY = "pk_test_TBb2tjoSEkMVvqAS1oiePwx800kvbJNePE"
+STRIPE_CURRENCY = "USD"
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
