@@ -9,7 +9,7 @@ from django.core.exceptions import AppRegistryNotReady
 from django.utils.lru_cache import lru_cache
 from django.utils.module_loading import import_string
 
-from oscar.core.exceptions import (
+from Shawp.core.exceptions import (
     AppNotFoundError, ClassNotFoundError, ModuleNotFoundError)
 
 
